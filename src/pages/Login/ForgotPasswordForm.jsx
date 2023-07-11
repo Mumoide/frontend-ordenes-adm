@@ -90,11 +90,7 @@ const ForgotPasswordForm = () => {
     <div className="d-flex justify-content-center align-items-center vh-100 recoveryPage">
       <div className="row p-3 border col-8 col-md-7 col-lg-5 col-xl-4 recoveryCard">
         <div className="col-12 d-flex justify-content-center mb-4">
-          <img
-            src="../../public/logolab_original_texto.png"
-            alt="Logo"
-            height="115"
-          />
+          <img src="../../logolab_original_texto.png" alt="Logo" height="115" />
         </div>
         <div className="col-12 d-flex justify-content-center mb-4">
           <h2>Restablecer contraseña</h2>

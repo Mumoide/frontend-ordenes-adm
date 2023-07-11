@@ -106,7 +106,7 @@ function Menu() {
                 className="d-flex align-items-center pb-3 text-white text-decoration-none"
               >
                 <img
-                  src="../../public/logolab_transparente.png"
+                  src="../../logolab_transparente.png"
                   alt="Logo"
                   width="40"
                   height="40"

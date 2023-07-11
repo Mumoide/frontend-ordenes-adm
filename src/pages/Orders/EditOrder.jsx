@@ -301,7 +301,7 @@ function EditOrder() {
       setPatientRutErrorMessage(false);
     }
     // Validate patient birthdate
-    const selectedBirthDate = new Date(data.patientBirthDate);
+    const selectedBirthDate = Date(data.patientBirthDate);
     const minBirthDate = new Date("1990-01-01");
     if (
       selectedBirthDate < minBirthDate ||

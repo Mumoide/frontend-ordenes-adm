@@ -61,7 +61,6 @@ function EditStages() {
       })
       .then((res) => {
         const creationDate = new Date(res.data.data.fecha_inicio_estado);
-        creationDate.setDate(creationDate.getDate() + 1);
         const creationDateFormatted =
           creationDate.getFullYear() +
           "-" +

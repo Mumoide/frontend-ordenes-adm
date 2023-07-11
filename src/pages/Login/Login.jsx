@@ -82,7 +82,7 @@ function Login() {
       <div className="row p-3 rounded col-8 col-md-7 col-lg-6 col-xl-5 mb-5">
         <div className="col-12 d-flex justify-content-center mt-5">
           <img
-            src="../../public/logolab_transparente_texto.png"
+            src="../../logolab_transparente_texto.png"
             alt="Logo"
             height="125"
           />

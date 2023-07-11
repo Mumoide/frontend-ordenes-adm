@@ -41,7 +41,7 @@
 
 .recoveryCard {
   background-color: rgb(255, 255, 255);
-  height: 70vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -52,7 +52,7 @@
 
 .resetPassCard {
   background-color: rgb(255, 255, 255);
-  height: 80vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
