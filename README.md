@@ -42,7 +42,7 @@ A continuación se mostrarán imagenes de la aplicación:
 
 <h2>Edición de usuario:</h2>
 
-<img src="images/useredit.png" height="600">
+<img src="images/user_edit.png" height="600">
 
 <h2>Visualización de usuario editado:</h2>
 
