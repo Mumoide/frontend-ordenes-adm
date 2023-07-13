@@ -6,6 +6,7 @@ Su función es administrar las órdenes de trabajo de un laboratorio dental, las
   - Roles de usuarios.
   - Recuperación de cuenta con mailer.
   - CRUD de usuarios, órdenes y etapas de las órdenes.
+  - Asignación de trajadores en órdenes.
   - Dashboard.
   - Exportación de datos en excel.
 
