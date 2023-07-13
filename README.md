@@ -11,3 +11,58 @@ Su función es administrar las órdenes de trabajo de un laboratorio dental, las
 
 A continuación se mostrarán imagenes de la aplicación:
 
+<h2>Login:</h2>
+
+<img src="images/login.png" height="600">
+
+<h2>Recuperación de cuenta:</h2>
+
+<img src="images/forgotPassword.png" height="600">
+
+<img src="images/resetPassword.png" height="600">
+
+<h2>Dashboard:</h2>
+
+<img src="images/dashboard.png" height="600">
+
+<h2>Tablas de datos:</h2>
+
+<h3>Órdenes:</h3>
+
+<img src="images/orders.png" height="600">
+
+<h3>Usuarios:</h3>
+
+<img src="images/users.png" height="600">
+
+<h3>Etapas:</h3>
+
+<img src="images/stages.png" height="600">
+
+<h2>Edición de usuario:</h2>
+
+<img src="images/useredit.png" height="600">
+
+<h2>Visualización de usuario editado:</h2>
+
+<img src="images/editeduserwithimageadded.png" height="600">
+
+<h2>Validaciones:</h2>
+
+<h3>Desde el front:</h3>
+
+<img src="images/orderfrontendvalidation.png" height="600">
+
+<h3>Desde el back:</h3>
+
+<img src="images/orderbackendvalidation.png" height="600">
+
+<h2>Alertas:</h2>
+
+<h3>Sweetalert2:</h3>
+
+<img src="images/deletesweetalert2.png" height="600">
+
+<h3>Toastify:</h3>
+
+<img src="images/toastify.png" height="600">
