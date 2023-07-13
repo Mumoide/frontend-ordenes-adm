@@ -1,7 +1,7 @@
 # frontend-ordenes-adm
 La aplicación de administración de órdenes de trabajo fue creada para la asignatura Portafolio de Título del DuocUC, esta aplicación usa la API REST del repositorio <a href="https://github.com/Mumoide/backend-ordenes-adm">backend-ordenes-adm</a> para realizar la comunicación entre el frontend y la base de datos MySQL.
 
-Su función es administrar las órdenes de trabajo de un laboratorio dental, las principales funciones de software que contiene son:
+Su función es administrar las órdenes de trabajo de un laboratorio dental, las principales funciones de software son:
   - Login con uso de token.
   - Roles de usuarios.
   - Recuperación de cuenta con mailer.
